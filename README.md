@@ -40,9 +40,6 @@ Easily track **call volumes, lead conversions, campaign impact, and agent produc
 ---
 
 ## 📢 Author
-Created by **[Girish Kumar V](https://github.com/GirishKumarV25)** — Passionate about data analytics, dashboard design, and process optimization.
+Created by **[Girish Kumar V](https://github.com/GirishKumarV25)** – Passionate about **data analytics, visualizations**.
 
 ---
-
-## 🏷 Tags
-`excel` `dashboard` `sales` `marketing` `call-centre` `business-analytics`
