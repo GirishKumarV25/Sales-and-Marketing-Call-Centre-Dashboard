@@ -32,9 +32,9 @@ Easily track **call volumes, lead conversions, campaign impact, and agent produc
 ---
 
 ## 📌 Quick Start
-1. Download `Dashboard.xlsx`  
+1. Download `Dashboard.xlsm`  
 2. Enable macros if prompted  
-3. Use slicers to filter by **date, campaign, region, or agent**  
+3. Use slicers to filter  
 4. Update data → visuals refresh automatically  
 
 ---
