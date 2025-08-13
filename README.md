@@ -16,14 +16,11 @@ Easily track **call volumes, lead conversions, campaign impact, and agent produc
 
 ## 📊 Preview
 ![Dashboard Preview](dashboard_preview.png)  
-*Replace `dashboard_preview.png` with your actual screenshot file.*
 
 ---
 
 ## 📂 Files in This Repository
-- **Dashboard.xlsx** → Main interactive dashboard  
-- **Sample_Data.csv** → Sample dataset for testing  
-- *(Optional)* Screenshots for README preview  
+- **Dashboard.xlsm** → Main interactive dashboard  
 
 ---
 
